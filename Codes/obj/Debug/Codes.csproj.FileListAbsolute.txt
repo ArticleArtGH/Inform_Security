@@ -1,0 +1,23 @@
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.exe.config
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.exe
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.pdb
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.csprojAssemblyReference.cache
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.csproj.CoreCompileInputs.cache
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.exe
+D:\Локальный диск E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.pdb
+C:\Users\stud\374\Черных Артём\Codes\obj\Debug\Codes.exe
+C:\Users\stud\374\Черных Артём\Codes\obj\Debug\Codes.pdb
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\bin\Debug\Codes.exe.config
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\bin\Debug\Codes.exe
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\bin\Debug\Codes.pdb
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\obj\Debug\Codes.csprojAssemblyReference.cache
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\obj\Debug\Codes.csproj.CoreCompileInputs.cache
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\obj\Debug\Codes.exe
+C:\Users\stud_307\374\Черных Артём\Inform_Security\Codes\obj\Debug\Codes.pdb
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.exe.config
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.exe
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\bin\Debug\Codes.pdb
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.csprojAssemblyReference.cache
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.csproj.CoreCompileInputs.cache
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.exe
+D:\Locale_disk_E\Git_Save\SPbKIT\Inform_Security\Codes\obj\Debug\Codes.pdb
